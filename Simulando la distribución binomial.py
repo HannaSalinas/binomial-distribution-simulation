@@ -3,7 +3,6 @@
 # Simulación y análisis de la distribución binomial
 #
 # Estudiantes: Hanna Jineth Contreras Salinas
-#              Oscar Rene Peñaloza Ardila
 # Programa: Ingeniería de Software y Datos
 #
 # Descripción:
@@ -12,7 +11,6 @@
 # evalúa probabilidades teóricas, compara la PMF con datos
 # simulados y realiza una prueba de bondad de ajuste Chi².
 # 
-# Link Video: 
 # ==============================================================
 
 # Importo las tres librerías necesarias para toda la actividad.
